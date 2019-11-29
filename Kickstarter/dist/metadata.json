@@ -1,0 +1,18 @@
+{
+    "author": {
+        "name": "eaz",
+        "id": "234339792773578762"
+    },
+    "service": "Kickstarter",
+    "description": {
+        "en": "Kickstarter is a crowdfunding platform.",
+        "de": "Kickstarter ist eine Crowdfunding-Plattform."
+    },
+    "url": ["www.kickstarter.com"],
+    "version": "1.0",
+    "logo": "https://i.imgur.com/gOYiSU1.png",
+    "thumbnail": "https://i.imgur.com/JFynjOb.png",
+    "color": "#05ce78",
+    "tags": "crowdfunding",
+    "category": "other"
+} 
